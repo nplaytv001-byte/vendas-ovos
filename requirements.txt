@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+fpdf
+geopy
+streamlit-js-eval
